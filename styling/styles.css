@@ -1,0 +1,19 @@
+#loginForm {
+    align-items: center;
+    text-align: center;
+}
+
+#loginButton {
+    margin-top: 10px;
+}
+
+.centerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.pageTitle {
+
+}
